@@ -3,7 +3,7 @@ CSCI3308 Lab 3
 
 Akira Youngblood
 
-This might cause a merge conflict
+Partner: Kevin Raschke
 
 `Adding a change`
 
